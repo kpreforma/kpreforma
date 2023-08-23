@@ -1,12 +1,8 @@
 # Yo! 👋 Kenneth here, welcome to my Github repo.
 
----
-
 ## A data geek with a passion in programming
 
 Currently in my final semester of the Computer Programming diploma in Seneca College (Ontario, CA) and a graduate of Bachelor of Science in Electrical Engineering from the University of the Philippines.
-
----
 
 <h1 align="center">My Tech Knowledge</h1>
 
@@ -53,15 +49,13 @@ Currently in my final semester of the Computer Programming diploma in Seneca Col
 
 <a href="https://www.instagram.com/chefengrken"><img align="left" class="ci ci-instagram ci-3x" alt="Instagram" style="padding-left: 10px"/>
 
-## <br>
+## Github Stats
 
----
+![](https://komarev.com/ghpvc/?username=kpreforma)
 
 [![Kenneth Reforma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpreforma)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kpreforma)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=kpreforma)
 
 <!--
 **kpreforma/kpreforma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
