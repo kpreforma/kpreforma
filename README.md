@@ -48,6 +48,7 @@ Currently in my final semester of the Computer Programming diploma in Seneca Col
 <a href="https://www.facebook.com/kenneth.reforma/"><img align="left" class="ci ci-facebook ci-3x" alt="Facebook" style="padding-left: 5px"/>
 
 <a href="https://www.instagram.com/chefengrken"><img align="left" class="ci ci-instagram ci-3x" alt="Instagram" style="padding-left: 10px"/>
+<br>
 
 ## Github Stats
 
