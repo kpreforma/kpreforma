@@ -1,4 +1,6 @@
-![](https://github.com/kpreforma/kpreforma/blob/master/images/07c96827-5b67-4c37-b31d-1d03a23ed288.gif)
+<p align="center">
+  <img width="250" height="250" src="https://github.com/kpreforma/kpreforma/blob/master/images/07c96827-5b67-4c37-b31d-1d03a23ed288.gif">
+</p>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kenneth-reforma/">
