@@ -36,25 +36,25 @@ Currently in my final semester of the Computer Programming diploma in Seneca Col
 
 ## Connect with me:
 
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.6.1/ci.min.css"
-/>
-
-<a href="https://www.linkedin.com/in/kenneth-reforma/"><img align="left" class="ci ci-linkedin ci-3x" alt="LinkedIn" style="padding-left: 5px"/>
-
-<a href="https://www.facebook.com/kenneth.reforma/"><img align="left" class="ci ci-facebook ci-3x" alt="Facebook" style="padding-left: 5px"/>
-
-<a href="https://www.instagram.com/chefengrken"><img align="left" class="ci ci-instagram ci-3x" alt="Instagram" style="padding-left: 10px"/>
-<br>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kenneth-reforma/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/kenneth.reforma/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.instagram.com/chefengrken">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 
 ## Github Stats
 
 ![](https://komarev.com/ghpvc/?username=kpreforma)
 
-[![Kenneth Reforma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpreforma)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kpreforma&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kpreforma)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpreforma&layout=compact&hide=jupyter+notebook&theme=dark#gh-dark-mode-only)
 
 <!--
 **kpreforma/kpreforma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
