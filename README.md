@@ -1,3 +1,5 @@
+![](https://github.com/kpreforma/kpreforma/blob/master/images/07c96827-5b67-4c37-b31d-1d03a23ed288.gif)
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kenneth-reforma/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
