@@ -34,8 +34,6 @@ Currently in my final semester of the Computer Programming diploma in Seneca Col
 
 ![Others](https://skillicons.dev/icons?i=arduino,autocad,bash,linux,matlab,regex,selenium)
 
----
-
 ## Connect with me:
 
 <link
